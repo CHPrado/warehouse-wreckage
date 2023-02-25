@@ -5,7 +5,9 @@ Developed with Unreal Engine 5
 In this game you can shoot cannon balls and cause chaos to some barrels!
 
 The player starts with 20 ammo and it shows the amount of ammo left in the top left corner.
+
 The ammo fires from the player position by pressing space.
+
 The game restarts after 5 seconds when you run out of ammo.
 
 What was learnt:
